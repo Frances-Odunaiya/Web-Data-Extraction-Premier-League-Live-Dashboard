@@ -1,5 +1,5 @@
 # Web-Data-Extraction-Premier-League-Live-Dashboard
-This project extracts and visualizes live data from the Premier League. Using Power BI, this project connects directly to the Premier League website to extract relevant tables and data, creating a dynamic live dashboard for tracking live football (soccer) matches, focusing on the English Premier League for real-time insights and analysis.
+Using Power BI, this project connects directly to the Premier League website to extract relevant tables and data, creating a dynamic live dashboard for tracking live football (soccer) matches, focusing on the English Premier League for real-time insights and analysis.
 
 The Premier League Live Dashboard offers a dynamic and interactive platform for football enthusiasts to stay updated with live match statistics, scores, and insights. Leveraging real-time data feeds from reliable sources, the dashboard provides a comprehensive view of ongoing matches, including team line-ups, match events, player stats, and more.
 
